@@ -1,7 +1,7 @@
 dependencies:
-https://github.com/hanifalkauni/user-auth-service
-https://github.com/hanifalkauni/vendor-service
-https://github.com/hanifalkauni/procurement-service
+- https://github.com/hanifalkauni/user-auth-service
+- https://github.com/hanifalkauni/vendor-service
+- https://github.com/hanifalkauni/procurement-service
 
 setup:
 1. clone all dependencies and make sure all service is working
